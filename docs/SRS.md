@@ -20,9 +20,9 @@
 3 [Системные требования](#system_requirements)  
 3.1 [Функциональные требования](#functional_requirements)  
 3.1.1 [Основные функции](#main_functions)  
-3.1.1.1 [Проверка файлов и папок на вирусы](#file_scan)
-3.1.1.2 [Просмотр результатов проверки](#scan_results)
-3.1.1.3 [Настройка фильтров проверки](#file_filtering)
+3.1.1.1 [Проверка файлов и папок на вирусы](#file_scan)  
+3.1.1.2 [Просмотр результатов проверки](#scan_results)  
+3.1.1.3 [Настройка фильтров проверки](#file_filtering)  
 3.1.2 [Ограничения и исключения](#restrictions_and_exclusions)  
 3.2 [Нефункциональные требования](#non-functional_requirements)  
 3.2.1 [Атрибуты качества](#quality_attributes)  
@@ -85,31 +85,31 @@
 
 Окно при входе в приложение в первый раз.
 
-![Окно входа в приложение](https://github.com/skritigus/LutiVirusScanner/tree/main/docs/mockups/FirstLoading.png)
+![Окно входа в приложение](https://github.com/skritigus/LutiVirusScanner/blob/main/docs/mockups/FirstLoading.png)
 
 Главное окно приложения при выборе папки для анализа.
 
-![Главное окно приложения](https://github.com/skritigus/LutiVirusScanner/tree/main/docs/mockups/MainWindow.png)
+![Главное окно приложения](https://github.com/skritigus/LutiVirusScanner/blob/main/docs/mockups/MainWindow.png)
 
 Главное окно приложения при отсутствии соединения с сервером.
 
-![Окно при отсутствии соединения](https://github.com/skritigus/LutiVirusScanner/tree/main/docs/mockups/OfflineErrorWindow.png)
+![Окно при отсутствии соединения](https://github.com/skritigus/LutiVirusScanner/blob/main/docs/mockups/OfflineErrorWindow.png)
 
 Главное окно приложения при отсутствии в выбранной папке файлов.
 
-![Окно при отсутствии Файлов](https://github.com/skritigus/LutiVirusScanner/tree/main/docs/mockups/EmptyFolderWarningFile.png)
+![Окно при отсутствии Файлов](https://github.com/skritigus/LutiVirusScanner/blob/main/docs/mockups/EmptyFolderWarningFile.png)
 
 Главное окно приложения при отсутствии или не существующем API Key.
 
-![Окно при ошибке с API-Key](https://github.com/skritigus/LutiVirusScanner/tree/main/docs/mockups/APIKeyErrorWindow.png)
+![Окно при ошибке с API-Key](https://github.com/skritigus/LutiVirusScanner/blob/main/docs/mockups/APIKeyErrorWindow.png)
 
 Окно с подробным отчетом по файлу.
 
-![Окно с подробным отчетом](https://github.com/skritigus/LutiVirusScanner/tree/main/docs/mockups/FileInfoWindow.png)
+![Окно с подробным отчетом](https://github.com/skritigus/LutiVirusScanner/blob/main/docs/mockups/FileInfoWindow.png)
 
 Окно с настройкой фильтрации файлов.
 
-![Окно с настройкой фильтрации](https://github.com/skritigus/LutiVirusScanner/tree/main/docs/mockups/FilterWindow.png)
+![Окно с настройкой фильтрации](https://github.com/skritigus/LutiVirusScanner/blob/main/docs/mockups/FilterWindow.png)
 
 <a name="user_specifications"/>
 
