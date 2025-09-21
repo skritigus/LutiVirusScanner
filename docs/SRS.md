@@ -97,7 +97,7 @@
 
 Главное окно приложения при отсутствии в выбранной папке файлов.
 
-![Окно при отсутствии Файлов](https://github.com/skritigus/LutiVirusScanner/blob/main/docs/mockups/EmptyFolderWarningFile.png)
+![Окно при отсутствии Файлов](https://github.com/skritigus/LutiVirusScanner/blob/main/docs/mockups/EmptyFolderWarningWindow.png)
 
 Главное окно приложения при отсутствии или не существующем API Key.
 
