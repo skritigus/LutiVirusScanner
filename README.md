@@ -10,3 +10,5 @@ Interface language: Qt.
 [SRS of program](https://github.com/skritigus/LutiVirusScanner/blob/main/docs/SRS.md) 
 
 [User interface images](https://github.com/skritigus/LutiVirusScanner/tree/main/docs/mockups)
+
+[Diagrams](https://github.com/skritigus/LutiVirusScanner/blob/main/docs/diagrams/Diagrams.md)
