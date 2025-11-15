@@ -14,3 +14,7 @@ Interface language: Qt.
 [Diagrams](https://github.com/skritigus/LutiVirusScanner/blob/main/docs/diagrams/Diagrams.md)
 
 [Code](https://github.com/skritigus/LutiVirusScanner/blob/main/code)
+
+[Test Plan](https://github.com/skritigus/LutiVirusScanner/blob/main/docs/Test%20Plan.md)
+
+[Test Results](https://github.com/skritigus/LutiVirusScanner/blob/main/docs/Test%20Results.md)
