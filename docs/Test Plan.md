@@ -134,7 +134,7 @@
 
 ## Представление результатов
 
-Результаты представлены в документе ["Результаты тестирования"](./TestResults.md).
+Результаты представлены в документе ["Результаты тестирования"](https://github.com/skritigus/LutiVirusScanner/blob/main/docs/Test%20Results.md).
 
 <a name="conclusion"/>
 
