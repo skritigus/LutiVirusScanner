@@ -13,4 +13,4 @@ Interface language: Qt.
 
 [Diagrams](https://github.com/skritigus/LutiVirusScanner/blob/main/docs/diagrams/Diagrams.md)
 
-[Diagrams](https://github.com/skritigus/LutiVirusScanner/blob/main/code)
+[Code](https://github.com/skritigus/LutiVirusScanner/blob/main/code)
